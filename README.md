@@ -14,7 +14,7 @@ A FastAPI-based web scraping API that allows you to scrape websites with flexibl
 1. Clone the repository
 2. Install dependencies:
    ```
-   pip install fastapi uvicorn requests beautifulsoup4 pydantic
+   pip install -r requirements.txt
    ```
 3. Run the server:
    ```
@@ -23,4 +23,4 @@ A FastAPI-based web scraping API that allows you to scrape websites with flexibl
 
 ## API Usage
 
-### Scrape Endpoint 
+### See test.py
